@@ -1,0 +1,127 @@
+{
+  "services": {
+    "monetique": {
+      "color": "#005AAA",
+      "commender la carte (edahabia)": {
+        "logo": "shield"
+      },
+      "informations utiles (edahabia)": {
+        "logo": "padlock"
+      },
+      "services offerts par edahabia": {
+        "logo": "support"
+      },
+      "retrait sans carte (cardless)": {
+        "logo": "gdpr"
+      }
+    },
+    "financiers": {
+      "color": "green",
+      "ouverture et tenue d'un compte ccp": {
+        "logo": "ccp"
+      },
+      "opérations admises sur un compte ccp": {
+        "logo": "ccp"
+      },
+      "cloture d'un compte ccp": {
+        "logo": "ccp"
+      },
+      "mandats et transfert d'argent": {
+        "logo": "ccp"
+      },
+      "service d'épargne cnep": {
+        "logo": "ccp"
+      },
+      "service h@walatic": {
+        "logo": "ccp"
+      },
+      "baridimob baridiweb": {
+        "logo": "ccp"
+      }
+    },
+    "corporate": {
+      "color": "#aa0000",
+      "services financiers et monétique": {
+        "logo": "ccp"
+      },
+      "services postaux (corrier et colis)": {
+        "logo": "ccp"
+      },
+      "services de proximité": {
+        "logo": "ccp"
+      }
+    },
+    "postaux": {
+      "color": "#FFCE00",
+      "service de base envois courrier/colis": {
+        "logo": "ccp"
+      },
+      "service complémentaires envois courrier/colis": {
+        "logo": "ccp"
+      },
+      "location de boites postales et commerciales": {
+        "logo": "ccp"
+      },
+      "garde du courrier": {
+        "logo": "ccp"
+      },
+      "poste restante": {
+        "logo": "ccp"
+      },
+      "télégramme électronique": {
+        "logo": "ccp"
+      },
+      "services ems": {
+        "logo": "ccp"
+      }
+    }
+  },
+  "news": [
+    {
+      "title": "Nouveau service CARDLESS",
+      "description": "Algérie Poste informe son aimable clientèle que Le retrait sans carte sur le GAB est désormais possible",
+      "tags": [5]
+    },
+    {
+      "title": "Nouveau service CARDLESS",
+      "description": "Algérie Poste informe son aimable clientèle que Le retrait sans carte sur le GAB est désormais possible",
+      "tags": [4]
+    },
+    {
+      "title": "Nouveau service CARDLESS",
+      "description": "Algérie Poste informe son aimable clientèle que Le retrait sans carte sur le GAB est désormais possible",
+      "tags": [3]
+    },
+    {
+      "title": "Nouveau service CARDLESS",
+      "description": "Algérie Poste informe son aimable clientèle que Le retrait sans carte sur le GAB est désormais possible",
+      "tags": [2]
+    },
+
+    {
+      "title": "Nouveau service CARDLESS",
+      "description": "Algérie Poste informe son aimable clientèle que Le retrait sans carte sur le GAB est désormais possible",
+      "tags": [1, 4, 3]
+    },
+    {
+      "title": "Nouveau service CARDLESS",
+      "description": "Algérie Poste informe son aimable clientèle que Le retrait sans carte sur le GAB est désormais possible",
+      "tags": [6, 3, 4]
+    },
+    {
+      "title": "Nouveau service CARDLESS",
+      "description": "Algérie Poste informe son aimable clientèle que Le retrait sans carte sur le GAB est désormais possible",
+      "tags": [2, 6, 3]
+    },
+    {
+      "title": "Nouveau service CARDLESS",
+      "description": "Algérie Poste informe son aimable clientèle que Le retrait sans carte sur le GAB est désormais possible",
+      "tags": [1, 2, 5]
+    },
+    {
+      "title": "Nouveau service CARDLESS",
+      "description": "Algérie Poste informe son aimable clientèle que Le retrait sans carte sur le GAB est désormais possible",
+      "tags": [2, 4, 3]
+    }
+  ]
+}
